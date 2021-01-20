@@ -8,5 +8,5 @@ Javascript é minha stack principal, para web, back-end e mobile, portanto é mi
 
 # Como me encontrar...
 
-*Email: manoel.netocarvalho03@gmail.com
-*linkedin: https://www.linkedin.com/in/manoel-carvalho-4987421ab/
+* Email: manoel.netocarvalho03@gmail.com
+* linkedin: https://www.linkedin.com/in/manoel-carvalho-4987421ab/
