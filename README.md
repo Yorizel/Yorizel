@@ -1,6 +1,6 @@
 # Olá, me chamo Manoel Neto 👋
 
-Moro no Brasil, tenho 18 anos e minha principal é stack javascript, tenho experiência com back e front-end. Estou sempre interessado em aprender mais.
+Moro no Brasil, tenho 18 anos e minha principal stack é javascript, tenho experiência com back e front-end. Estou sempre interessado em aprender mais.
 
 # Aprendendo atualmente
 
