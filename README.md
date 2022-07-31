@@ -5,10 +5,6 @@
 
 ###
 
-<img align="right" height="150" src="https://static.wikia.nocookie.net/reverend-insanity/images/f/f3/1.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
