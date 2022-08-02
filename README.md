@@ -29,6 +29,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Yorizel/Yorizel/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/Yorizel/Yorizel/output/snake.svg" alt="Snake animation" />
 
 ###
