@@ -1,8 +1,3 @@
-# Manoel Neto  
-**Software Engineer | Systems Architect | Triathlete**  
-
----
-
 ## 👨💻 About Me  
 - **Age**: 22  
 - **Experience**: 7+ years building systems (started coding at 15)  
@@ -10,7 +5,7 @@
 - **Passions**: Scalable architecture, triathlon training, open-source collaboration  
 - **Discipline**: 18+ hours/week triathlon training (swim, bike, run) applied to iterative software development  
 
----
+###
 
 ## 🛠️ Technical Expertise  
 
@@ -32,7 +27,7 @@
 ### **DevOps**  
 - Docker, Kubernetes, GitHub Actions  
 
----
+###
 
 ## 🚀 Key Projects  
 
@@ -43,27 +38,27 @@ _Triathlon training platform (Training Peaks alternative)_
 - **Mobile**: React Native, offline logging, Strava API integration  
 - **Features**: Real-time analytics, training plan builder  
 
----
+###
 
 ## 🌱 Open Source Contributions  
 - **TRPC**: Contributed to type-safe API framework  
 - **Avante.nvim**: Improved Neovim configuration toolkit  
 
----
+###
 
 ## 🧠 Development Philosophy  
 - **Code Quality**: SOLID principles, DRY code, strict TypeScript  
 - **System Design**: Vertical slicing, modular services, event-driven workflows  
 - **Learning Focus**: Kafka stream optimization, Python automation, CI/CD tuning  
 
----
+###
 
 ## 🏆 Career Vision  
 1. Build tools that solve real problems for athletes and engineers  
 2. Master distributed systems at petabyte scale  
 3. Create educational content bridging software architecture and sports discipline  
 
----
+###
 
 ## 📬 Connect  
 - GitHub: [Yorizel](https://github.com/Yorizel)  
