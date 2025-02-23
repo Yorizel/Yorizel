@@ -1,52 +1,73 @@
-<h1 align="center">hey there 👋</h1>
+# Manoel Neto  
+**Software Engineer | Systems Architect | Triathlete**  
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨💻 About Me  
+- **Age**: 22  
+- **Experience**: 7+ years building systems (started coding at 15)  
+- **Current Role**: Co-founder at **Code Weavers** (Brazilian software house)  
+- **Passions**: Scalable architecture, triathlon training, open-source collaboration  
+- **Discipline**: 18+ hours/week triathlon training (swim, bike, run) applied to iterative software development  
 
-###
+---
 
-<p align="left">I'm Manoel from Brazil<br><br>- 📚 I'm currently learning HonoJs and CI/CD<br>- ⚡ In my free time I code a lot</p>
+## 🛠️ Technical Expertise  
 
-###
+### **Backend Development**  
+- **Languages**: TypeScript, JavaScript, Python  
+- **Tools**: Kafka (real-time streaming), RabbitMQ, PostgreSQL, Redis  
+- **Frameworks**: Express.js, NestJS, Hono.js, Elysia.js  
+- **Architecture**: Clean Architecture, DDD, Event-Driven Systems, CI/CD pipelines  
 
-<h3 align="left">🛠 Language and tools</h3>
+### **Frontend Development**  
+- **Frameworks**: React (Next.js, Remix), Vue.js (Nuxt.js), Solid.js, Astro.js  
+- **Patterns**: Feature-Sliced Design (FSD)  
+- **Styling**: Tailwind CSS, Radix UI  
 
-###
+### **Mobile Development**  
+- **Stack**: React Native (Expo), Zustand
+- **Features**: Offline-first apps, GPS tracking, cross-platform sync  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
+### **DevOps**  
+- Docker, Kubernetes, GitHub Actions  
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🚀 Key Projects  
 
-###
+### [Enduro for Tri](https://www.endurofortri.com/en)  
+_Triathlon training platform (Training Peaks alternative)_  
+- **Frontend**: React + TypeScript, Vite, Tailwind CSS  
+- **Backend**: RabbitMQ, Honojs, PostgreSQL  
+- **Mobile**: React Native, offline logging, Strava API integration  
+- **Features**: Real-time analytics, training plan builder  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yorizel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+## 🌱 Open Source Contributions  
+- **TRPC**: Contributed to type-safe API framework  
+- **Avante.nvim**: Improved Neovim configuration toolkit  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yorizel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yorizel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=yorizel&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
+
+## 🧠 Development Philosophy  
+- **Code Quality**: SOLID principles, DRY code, strict TypeScript  
+- **System Design**: Vertical slicing, modular services, event-driven workflows  
+- **Learning Focus**: Kafka stream optimization, Python automation, CI/CD tuning  
+
+---
+
+## 🏆 Career Vision  
+1. Build tools that solve real problems for athletes and engineers  
+2. Master distributed systems at petabyte scale  
+3. Create educational content bridging software architecture and sports discipline  
+
+---
+
+## 📬 Connect  
+- GitHub: [Yorizel](https://github.com/Yorizel)  
+
 
 ###
 
@@ -54,10 +75,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/yorizel">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=35onn1z0g9odakqw5o3ajibit&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
-###
