@@ -5,8 +5,6 @@
 - **Passions**: Scalable architecture, triathlon training, open-source collaboration  
 - **Discipline**: 18+ hours/week triathlon training (swim, bike, run) applied to iterative software development  
 
-##  
-
 ## 🛠️ Technical Expertise  
 
 ### **Backend Development**  
@@ -27,15 +25,11 @@
 ### **DevOps**  
 - Docker, Kubernetes, GitHub Actions  
 
-##  
-
 ## 💻 Workflow Setup  
 - **Operating System**: Arch Linux  
 - **Window Manager**: Hyprland  
 - **Editor**: Neovim  
-- **Terminal Multiplexer**: Tmux  
-
-##  
+- **Terminal Multiplexer**: Tmux   
 
 ## 🚀 Key Projects  
 
@@ -46,30 +40,21 @@ _Triathlon training platform (Training Peaks alternative)_
 - **Mobile**: React Native, offline logging, Strava API integration  
 - **Features**: Real-time analytics, training plan builder  
 
-##  
-
 ## 🌱 Open Source Contributions  
 - **TRPC**: Contributed to type-safe API framework  
 - **Avante.nvim**: Improved Neovim configuration toolkit  
 
-##  
-
 ## 🧠 Development Philosophy  
 - **Code Quality**: SOLID principles, DRY code, strict TypeScript  
 - **System Design**: Vertical slicing, modular services, event-driven workflows  
-- **Learning Focus**: Kafka stream optimization, Python automation, CI/CD tuning  
-
-##  
+- **Learning Focus**: Kafka stream optimization, Python automation, CI/CD tuning   
 
 ## 🏆 Career Vision  
 1. Build tools that solve real problems for athletes and engineers   
 2. Create educational content bridging software architecture and sports discipline  
-
-##  
-
+ 
 ## 📬 Connect  
 - GitHub: [Yorizel](https://github.com/Yorizel)  
-
-##  
+ 
 
 <img src="https://raw.githubusercontent.com/yorizel/yorizel/output/snake.svg" alt="Snake animation" />
