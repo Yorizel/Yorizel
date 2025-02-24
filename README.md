@@ -1,7 +1,7 @@
 ## 👨💻 About Me  
 - **Age**: 22  
 - **Experience**: 7+ years building systems (started coding at 15)  
-- **Current Role**: Co-founder at **Code Weavers** (Brazilian software house)  
+- **Current Role**: founder at **Code Weavers** (Brazilian software house)  
 - **Passions**: Scalable architecture, triathlon training, open-source collaboration  
 - **Discipline**: 18+ hours/week triathlon training (swim, bike, run) applied to iterative software development  
 
