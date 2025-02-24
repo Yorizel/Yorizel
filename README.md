@@ -54,7 +54,8 @@ _Triathlon training platform (Training Peaks alternative)_
 2. Create educational content bridging software architecture and sports discipline  
  
 ## 📬 Connect  
-- GitHub: [Yorizel](https://github.com/Yorizel)  
+- Strava: [Yorizel](https://www.strava.com/athletes/111529424)
+- Email: manoel.netocarvalho03@gmail.com
  
 
 <img src="https://raw.githubusercontent.com/yorizel/yorizel/output/snake.svg" alt="Snake animation" />
