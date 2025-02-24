@@ -62,9 +62,8 @@ _Triathlon training platform (Training Peaks alternative)_
 ##  
 
 ## 🏆 Career Vision  
-1. Build tools that solve real problems for athletes and engineers  
-2. Master distributed systems at petabyte scale  
-3. Create educational content bridging software architecture and sports discipline  
+1. Build tools that solve real problems for athletes and engineers   
+2. Create educational content bridging software architecture and sports discipline  
 
 ##  
 
