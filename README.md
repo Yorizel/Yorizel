@@ -2,8 +2,7 @@
 - **Age**: 22  
 - **Experience**: 7+ years building systems (started coding at 15)  
 - **Current Role**: founder at **Code Weavers** (Brazilian software house)  
-- **Passions**: Scalable architecture, triathlon training, open-source collaboration  
-- **Discipline**: 18+ hours/week triathlon training (swim, bike, run) applied to iterative software development  
+- **Passions**: triathlon, open-source collaboration  
 
 ## 📬 Connect  
 - Strava: [Yorizel](https://www.strava.com/athletes/111529424)
