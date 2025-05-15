@@ -6,7 +6,5 @@
 ## Connect  
 - Strava: [Yorizel](https://www.strava.com/athletes/111529424)
 - Email: manoel.netocarvalho03@gmail.com
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yorizel&theme=tokyonight)
 
 <img src="https://raw.githubusercontent.com/yorizel/yorizel/output/snake.svg" alt="Snake animation" />
